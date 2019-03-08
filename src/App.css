@@ -31,3 +31,73 @@
     transform: rotate(360deg);
   }
 }
+.Select-control {
+  width: 50% !important;
+  margin: 0 auto;
+  box-shadow: black 0px 0px 0px 1px;
+  border: 1px solid black;
+}
+.select1 {
+  display: block;
+}
+.Select-clear-zone {
+  display: none;
+}
+.chXdSi {
+  width: 25% !important;
+}
+.title {
+  font-weight: bold;
+  color: crimson;
+  font-size: 50px;
+  -webkit-text-stroke: 1px #000;
+  text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000,
+    -1px 1px 0 #000, 1px 1px 0 #000;
+}
+img {
+  width: 1em !important;
+}
+.icon {
+  display: block;
+}
+.Select-menu {
+  width: 50% !important;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+.Select-value-label {
+  padding-left: 25px;
+}
+.link {
+  padding-left: 6px;
+  padding-right: 48px;
+}
+svg {
+  color: black;
+}
+.label {
+  color: black;
+  font-weight: 600;
+}
+input {
+  line-height: 34px;
+  border-radius: 4px;
+  width: 50%;
+  border: 1px solid black;
+  text-align: center;
+}
+.answer {
+  color: crimson;
+  font-size: 32px;
+  font-weight: bold;
+}
+.bg-light {
+  background-color: #ff0000 !important;
+  border: 1px solid black;
+}
+.block {
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 50%;
+  margin: 0 auto;
+}
